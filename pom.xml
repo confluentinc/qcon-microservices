@@ -16,7 +16,7 @@
 
     <properties>
         <checkstyle.skip>true</checkstyle.skip>
-        <kafka.version>2.6.3</kafka.version>
+        <kafka.version>3.7.1</kafka.version>
         <confluent.version>5.0.0</confluent.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
